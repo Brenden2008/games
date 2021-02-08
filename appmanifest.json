@@ -1,0 +1,9 @@
+{
+	"name": "Free Games Online",
+	"short_name": "Free Games Online",
+	"description": "",
+	"start_url": "index.html",
+	"display": "fullscreen",
+	"orientation": "any",
+	"background_color": "#ffffff"
+}
